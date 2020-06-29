@@ -6,6 +6,4 @@ browserstack.json
 .vscode
 .rpt2_cache
 coverage
-
-lib
 .env
